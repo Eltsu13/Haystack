@@ -1,0 +1,7 @@
+name: Haystack
+version: '${version}'
+
+main: me.eltsucraft.haystack.Haystack
+paper-plugin-loader: me.eltsucraft.haystack.HaystackLoader
+api-version: '26.3'
+load: POSTWORLD
